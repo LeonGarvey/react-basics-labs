@@ -45,3 +45,18 @@ div {
   font-style: italic;
   color: #d3d3d3;
 }
+
+.priority-low {
+  color: green;
+  font-weight: bold;
+}
+
+.priority-medium {
+  color: orange;
+  font-weight: bold;
+}
+
+.priority-high {
+  color: red;
+  font-weight: bold;
+}
