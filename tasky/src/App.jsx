@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
 import TaskPage from './pages/TaskPage'; 
+import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
   return (
